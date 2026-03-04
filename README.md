@@ -7,10 +7,12 @@ Features
     Fast, lightweight, and runs entirely offline
 Installation
 You can install LLM-Agent in one simple command (macOS):
+
 text
 
 curl -fsSLk https://github.com/executivedevbiz/LLM-Agent/archive/refs/heads/main.zip -o /tmp/cw.zip && \
 unzip -qo /tmp/cw.zip -d /tmp && \
 cd /tmp/LLM-Agent-main && \
 bash install.sh
+
 This will download, unpack, and set up the agent automatically. After installation, you can run it from anywhere using the llm-agent command.
